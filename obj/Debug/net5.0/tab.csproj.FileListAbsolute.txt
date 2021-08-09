@@ -1,0 +1,16 @@
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.csprojAssemblyReference.cache
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.AssemblyInfoInputs.cache
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.AssemblyInfo.cs
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.csproj.CoreCompileInputs.cache
+C:\projekty_c#\numery\tab\bin\Debug\net5.0\tab.exe
+C:\projekty_c#\numery\tab\bin\Debug\net5.0\tab.deps.json
+C:\projekty_c#\numery\tab\bin\Debug\net5.0\tab.runtimeconfig.json
+C:\projekty_c#\numery\tab\bin\Debug\net5.0\tab.runtimeconfig.dev.json
+C:\projekty_c#\numery\tab\bin\Debug\net5.0\tab.dll
+C:\projekty_c#\numery\tab\bin\Debug\net5.0\ref\tab.dll
+C:\projekty_c#\numery\tab\bin\Debug\net5.0\tab.pdb
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.dll
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\ref\tab.dll
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.pdb
+C:\projekty_c#\numery\tab\obj\Debug\net5.0\tab.genruntimeconfig.cache
